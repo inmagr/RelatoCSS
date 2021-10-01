@@ -1,0 +1,9 @@
+Tiene que ser un relato corto sobre halloween.
+Hay que añadir las siguientes palabras:
+PhP     Iniciativa
+Java    Calabaza
+HTML    Esqueleto
+CSS     Fantasma
+
+Hola
+...
