@@ -1,4 +1,4 @@
-Tiene que ser un relato corto sobre halloween.
+Tiene que ser un relato corto sobre Halloween.
 Hay que añadir las siguientes palabras:
 PhP     Iniciativa
 Java    Calabaza
