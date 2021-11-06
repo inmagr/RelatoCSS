@@ -4,3 +4,5 @@ PhP     Iniciativa
 Java    Calabaza
 HTML    Esqueleto
 CSS     Fantasma
+
+El fantasma Java tenía mucha iniciativa, pero nunca se esperó...
